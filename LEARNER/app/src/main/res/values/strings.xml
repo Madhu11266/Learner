@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Learner</string>
+    <string name="welcome">Welcome</string>
+    <string name="you_have_successfully_logged_in">You have successfully logged in</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+</resources>

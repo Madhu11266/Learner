@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.LEARNER">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplications1">
+        <activity android:name="com.example.LEARNER.LoginActivity"></activity>
+        <activity android:name="com.example.LEARNER.oose" />
+        <activity android:name="com.example.LEARNER.python" />
+        <activity android:name="com.example.LEARNER.programmingusingc" />
+        <activity android:name="com.example.LEARNER.QuizActivity" />
+        <activity android:name="com.example.LEARNER.Practice" />
+        <activity android:name="com.example.LEARNER.Learn" />
+        <activity android:name="com.example.LEARNER.Continue" />
+        <activity android:name="com.example.LEARNER.HomeScreen" />
+        <activity android:name="com.example.LEARNER.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
