@@ -1,7 +1,7 @@
 # Learner Mobile app
 
 I made this mobile app for my mini project for using online resources i.e..,google,youtube.
-If you want anything useful  in this project you can use this resources.
+If you find anything useful  in this project you can use this resources.
 
 Now I will explain how it works:
 
