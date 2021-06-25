@@ -1,5 +1,6 @@
 # Learner Mobile app
 This app is similar to quiz typed preparation app.
+
 I made this mobile app for my mini project for using online resources i.e..,google,youtube.
 If you find anything useful  in this project you can use this resources.
 
@@ -21,6 +22,8 @@ In book there will be a subjects that I have created . If you click on that any 
 
 ![](https://github.com/Madhu11266/Learner/blob/learner/Screeen%20Shots/Screenshot%202021-06-24%20135459.png)
 ![](https://github.com/Madhu11266/Learner/blob/learner/Screeen%20Shots/Screenshot%202021-06-24%20135514.png)
+
+I already created some questions for each subject and stored in database using sql and also you can visualize that questions QZhelper java file. That questions is only fetching in practice section.
 
 
 In practice section there will be a three different modes of difficulties i.e.,easy,medium and hard and also a section to select subject.
