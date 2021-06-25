@@ -1,5 +1,5 @@
 # Learner Mobile app
-
+This app is similar to quiz typed preparation app.
 I made this mobile app for my mini project for using online resources i.e..,google,youtube.
 If you find anything useful  in this project you can use this resources.
 
